@@ -43,7 +43,7 @@ class Geo extends Component {
     
     render() {
         //const loc = new MyMapComponent.google.maps.LatLng(this.state.lastPosition.coords.latitude, this.state.lastPosition.coords.longitude);
-        
+        //hii
         return( 
             
             <div>
